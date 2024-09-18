@@ -7,3 +7,5 @@ Second part of my song
 I also live it
 
 First commit in branch
+
+Second commit in branch
